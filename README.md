@@ -72,5 +72,5 @@ resources/templates - contains server-side templates which are rendered by Sprin
 
 resources/application.properties - It contains application-wide properties. Spring reads the properties defined in this file to configure your application. You can define server’s default port, server’s context path, database URLs etc, in this file.
 
-pom.xml - contains all the project dependencies
+pom.xml - contains all the project dependencies.
 
